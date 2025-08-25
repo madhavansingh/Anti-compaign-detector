@@ -1,0 +1,4 @@
+flask
+pandas
+snscrape
+textblob
